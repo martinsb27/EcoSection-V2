@@ -1,0 +1,8 @@
+[
+    {
+        "username": "Luis",
+        "role": "admin",
+        "pwd_hash": "40a69bdd24b6b677d4c2a7dd091f655341d05977783073f3c572e57fd2221a57",
+        "salt": "28af2e7409a8feca3722510f0f01d3d2"
+    }
+]
